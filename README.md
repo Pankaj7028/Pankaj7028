@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Pankaj
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning Computer Science.
-- 💞️ I’m looking to collaborate on ...
 - 📫 Mail: Pankajmandal7028@gmail.com
 
 <!---
